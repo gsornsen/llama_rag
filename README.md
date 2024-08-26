@@ -26,7 +26,7 @@ make run
 ## Usage
 
 1. Open a web browser and navigate to `http://localhost:8000`
-2. Enter please index: <Wikipedia Page Title or Titles> in the settings Modal
+2. Enter "please index: Wikipedia Page Title or Titles" in the settings Modal
 3. The agent will automatically index the relevant Wikipedia page(s) and be ready for you to ask questions about the content in the article(s)
 
 ## Technical Details
