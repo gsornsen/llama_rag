@@ -2,6 +2,9 @@
 
 This project implements a conversational agent that can automatically index Wikipedia pages on demand and use RAG (Retrieval-Augmented Generation) methodology with OpenAI to chat about the indexed articles.
 
+## Demo
+![](https://github.com/gsornsen/llama_rag/blob/main/media/llama_rag.gif)
+
 ## Features
 
 - On-demand indexing of Wikipedia pages
